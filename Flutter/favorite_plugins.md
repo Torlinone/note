@@ -30,6 +30,14 @@
 
 - [dash_chat](https://pub.dev/packages/dash_chat)
 
+### 图片
+
+- [flutter_luban](https://pub.dev/packages/flutter_luban#-readme-tab-)
+
+### 动画
+
+- [simple_animations](https://pub.dev/packages/simple_animations)
+
 ### 组件库
 
 - [getflutter](https://pub.dev/packages/getflutter#demo)
