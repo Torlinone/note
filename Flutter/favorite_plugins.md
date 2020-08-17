@@ -12,6 +12,10 @@
 
 - [flutter_slidable](https://pub.dev/packages/flutter_slidable) 
 
+### modal
+
+- modal_bottom_sheet
+
 ### forms
 
 - [card_settings](https://pub.dev/packages/card_settings)
